@@ -6,4 +6,5 @@ A game where you go from one Wikipedia Page to another only clicking the links i
 2.Extract<br /> 
 3.Go to: chrome://extensions/<br /> 
 4.Press Load Unpacked and choose the extracted folder<br /> 
+5.Play using the chrome extension
 
