@@ -1,5 +1,5 @@
 # Wikipedia Game BETA 1
-A game where you go from one Wikipedia Page to another only clicking the links inside the page. Por CQ
+A game where you go from one Wikipedia Page to another only clicking the links inside the page. by CQ
 
 # How to Play:<br /> 
 1.Download the zip<br /> 
